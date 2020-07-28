@@ -1,10 +1,11 @@
-<h2> Hello welcome <<i>coders</i>></h2>
+<h2> Hello welcome</h2>
 
-<img align='center' src='http://www.learnworthy.net/wp-content/uploads/2019/12/Why-programming-is-the-skill-you-have-to-learn-1280x720.jpg' width='800"'>
+<img align='center' src='http://www.csi.cuny.edu/sites/default/files/styles/inner_page_slider/public/inner-page-slider/Slider_1_0.JPG?itok=rpSFJES3' width='800"'>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/dev-gabriel-santos) 
 
-I am Gabriel. I'm from Brazil and currently finishing my degree in Computer Science at [Federal University of Jatai](https://portalufj.jatai.ufg.br). 
+First of all thank's to visit my profile, enjoy!
+I am Gabriel and I'm from Brazil. Currently I'm finishing my degree in Computer Science at [Federal University of Jatai](https://portalufj.jatai.ufg.br). 
 
 ## 💻 What about me?
 

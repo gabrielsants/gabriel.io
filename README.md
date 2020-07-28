@@ -1,8 +1,8 @@
 <h2> Hello welcome <<i>coders</i>></h2>
 
-<img align='center' src='https://learnworthy.net/wp-content/uploads/2019/12/Why-programming-is-the-skill-you-have-to-learn-1280x720.jpg' width='800"'>
+<img align='center' src='http://www.learnworthy.net/wp-content/uploads/2019/12/Why-programming-is-the-skill-you-have-to-learn-1280x720.jpg' width='800"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/dev-gabriel-santos) 
+[![LinkedIn Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/dev-gabriel-santos) 
 
 I am Gabriel. I'm from Brazil and currently finishing my degree in Computer Science at [Federal University of Jatai](https://portalufj.jatai.ufg.br). 
 
